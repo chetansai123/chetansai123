@@ -1,0 +1,27 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Most-used languages across featured repositories</title>
+  <desc id="desc">A visual language breakdown for Chetan's six featured repositories, calculated from repository bytes.</desc>
+  <rect width="1200" height="210" rx="18" fill="#F4E9D8"/>
+  <rect x="0" y="0" width="14" height="210" fill="#FF7849"/>
+  <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+    <text x="42" y="42" fill="#103B52" font-size="22" font-weight="850">Most-used languages</text>
+    <text x="42" y="68" fill="#405B64" font-size="13">Featured repositories · byte share snapshot</text>
+    <g transform="translate(42 91)">
+      <rect width="1115" height="22" fill="#D8D3C8"/>
+      <rect width="519" height="22" fill="#3572A5"/>
+      <rect x="519" width="474" height="22" fill="#F1E05A"/>
+      <rect x="993" width="55" height="22" fill="#F05138"/>
+      <rect x="1048" width="39" height="22" fill="#663399"/>
+      <rect x="1087" width="25" height="22" fill="#A52A22"/>
+    </g>
+    <g transform="translate(42 144)" font-size="13" font-weight="750" fill="#103B52">
+      <circle cx="6" cy="-4" r="6" fill="#3572A5"/><text x="20" y="0">Python 46.6%</text>
+      <circle cx="166" cy="-4" r="6" fill="#F1E05A"/><text x="180" y="0">JavaScript 42.5%</text>
+      <circle cx="354" cy="-4" r="6" fill="#F05138"/><text x="368" y="0">Swift 4.9%</text>
+      <circle cx="488" cy="-4" r="6" fill="#663399"/><text x="502" y="0">CSS 3.5%</text>
+      <circle cx="610" cy="-4" r="6" fill="#A52A22"/><text x="624" y="0">Jinja 2.3%</text>
+      <circle cx="756" cy="-4" r="6" fill="#E34C26"/><text x="770" y="0">HTML 0.2%</text>
+    </g>
+    <text x="42" y="184" fill="#405B64" font-size="11">KareerGuru · Scribbly · ClipboardForMacOS · proshop · Updated Portfolio · JobScraper</text>
+  </g>
+</svg>

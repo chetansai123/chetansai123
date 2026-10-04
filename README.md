@@ -8,11 +8,28 @@ React · Redux · Next.js · Node.js · Express · JavaScript · Java
 
 <a href="https://chetansai.vercel.app">Portfolio</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:chetanssmb123@gmail.com">Email</a>
+<a href="mailto:chetansai.official@gmail.com">Email</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/chetan-sai-96445a227/">LinkedIn</a>
 
 </div>
+
+<table>
+<tr>
+<td width="72%" valign="middle">
+
+<img src="./assets/language-mix.svg" alt="Most-used languages across featured repositories" width="100%" />
+
+</td>
+<td width="28%" valign="middle">
+
+**Reach me**  
+[chetansai.official@gmail.com](mailto:chetansai.official@gmail.com)  
+[chetansai.vercel.app](https://chetansai.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ## About me
 
@@ -101,8 +118,8 @@ click-to-paste.
 
 ### [proshop](https://github.com/chetansai123/proshop)
 
-An e-commerce application focused on product browsing, cart, and checkout
-flows.
+A full-stack e-commerce reference architecture connecting product browsing,
+cart state, and checkout flows.
 
 `JavaScript` `React` `Node.js`
 
