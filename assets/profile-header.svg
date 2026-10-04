@@ -1,0 +1,42 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chetan Sai Somaraju — Full Stack Engineer</title>
+  <desc id="desc">An animated editorial systems map showing a React interface flowing through Node APIs, queues, and data services.</desc>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#EAF1E8" opacity="0.13"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="420" rx="26"/></clipPath>
+    <path id="route" d="M720 108C804 108 808 173 879 173C952 173 950 247 1028 247C1086 247 1092 317 1152 317"/>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="#103B52"/><rect width="1200" height="420" fill="url(#dots)"/>
+    <circle cx="1075" cy="68" r="164" fill="#F6C85F"/>
+    <path d="M-65 350C99 270 233 463 431 354C543 293 618 305 708 359" stroke="#52D3C6" stroke-width="84" opacity="0.88"/>
+    <path d="M-46 390C125 312 244 486 452 383" stroke="#EAF1E8" stroke-width="3" stroke-dasharray="12 14" opacity="0.68"/>
+    <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+      <text x="64" y="64" fill="#52D3C6" font-size="14" font-weight="800" letter-spacing="3">HELLO, I’M</text>
+      <text x="62" y="130" fill="#F4E9D8" font-size="54" font-weight="850" letter-spacing="-2">Chetan Sai</text>
+      <text x="62" y="184" fill="#F4E9D8" font-size="54" font-weight="850" letter-spacing="-2">Somaraju</text>
+      <rect x="64" y="205" width="164" height="8" fill="#FF7849"/>
+      <text x="64" y="258" fill="#F4E9D8" font-size="26" font-weight="750">Full Stack Engineer.</text>
+      <text x="64" y="292" fill="#D5E4E2" font-size="16">Building the route from interface to reliable delivery.</text>
+      <g font-size="13" font-weight="750" fill="#103B52">
+        <text x="64" y="347">React</text><text x="130" y="347">Redux</text><text x="198" y="347">Next.js</text>
+        <text x="278" y="347">Node.js</text><text x="356" y="347">Express</text><text x="442" y="347">JavaScript</text><text x="548" y="347">Java</text>
+      </g>
+      <text x="64" y="385" fill="#EAF1E8" font-size="11" font-weight="700" letter-spacing="2">UI  /  API  /  INTEGRATION  /  DELIVERY</text>
+      <g transform="translate(0 4)">
+        <text x="700" y="58" fill="#103B52" font-size="12" font-weight="900" letter-spacing="2">SYSTEM ROUTE / 01</text>
+        <path d="M720 104C804 104 808 169 879 169C952 169 950 243 1028 243C1086 243 1092 313 1152 313" stroke="#082A3C" stroke-width="16" stroke-linecap="round" opacity="0.17"/>
+        <use href="#route" stroke="#F4E9D8" stroke-width="4" stroke-linecap="round" stroke-dasharray="14 12" transform="translate(0 -4)"/>
+        <circle r="9" fill="#FF7849" stroke="#103B52" stroke-width="3"><animateMotion dur="5.5s" repeatCount="indefinite"><mpath href="#route"/></animateMotion></circle>
+        <g transform="translate(666 78)"><path d="M0 16L54 0L108 16L54 32Z" fill="#EAF1E8" stroke="#103B52" stroke-width="3"/><path d="M0 16V74L54 92V32Z" fill="#52D3C6" stroke="#103B52" stroke-width="3"/><path d="M108 16V74L54 92V32Z" fill="#2AA99E" stroke="#103B52" stroke-width="3"/><text x="20" y="119" fill="#F4E9D8" font-size="13" font-weight="900">REACT UI</text></g>
+        <g transform="translate(823 144)"><path d="M0 16L54 0L108 16L54 32Z" fill="#FFE7DD" stroke="#103B52" stroke-width="3"/><path d="M0 16V74L54 92V32Z" fill="#FF7849" stroke="#103B52" stroke-width="3"/><path d="M108 16V74L54 92V32Z" fill="#D95839" stroke="#103B52" stroke-width="3"/><text x="18" y="119" fill="#F4E9D8" font-size="13" font-weight="900">NODE API</text></g>
+        <g transform="translate(971 218)"><path d="M0 16L54 0L108 16L54 32Z" fill="#FFF1BD" stroke="#103B52" stroke-width="3"/><path d="M0 16V74L54 92V32Z" fill="#F6C85F" stroke="#103B52" stroke-width="3"/><path d="M108 16V74L54 92V32Z" fill="#D7A529" stroke="#103B52" stroke-width="3"/><text x="32" y="119" fill="#F4E9D8" font-size="13" font-weight="900">QUEUE</text></g>
+        <g transform="translate(1096 288)"><ellipse cx="50" cy="13" rx="48" ry="13" fill="#EAF1E8" stroke="#103B52" stroke-width="3"/><path d="M2 13V64C2 81 98 81 98 64V13" fill="#52D3C6" stroke="#103B52" stroke-width="3"/><ellipse cx="50" cy="64" rx="48" ry="13" fill="#2AA99E" stroke="#103B52" stroke-width="3"/><text x="21" y="104" fill="#F4E9D8" font-size="13" font-weight="900">DATA</text></g>
+        <g fill="#F4E9D8" font-size="10" font-weight="800" letter-spacing="1.4"><text x="746" y="289">EVENT</text><text x="820" y="326">REQUEST</text><text x="914" y="360">DELIVERY</text></g>
+        <path d="M730 300H780" stroke="#FF7849" stroke-width="3"><animate attributeName="stroke-dasharray" values="2 10;10 2;2 10" dur="2.4s" repeatCount="indefinite"/></path>
+        <path d="M812 337H882" stroke="#52D3C6" stroke-width="3"><animate attributeName="stroke-dasharray" values="10 2;2 10;10 2" dur="2.4s" repeatCount="indefinite"/></path>
+        <path d="M916 371H988" stroke="#F6C85F" stroke-width="3"><animate attributeName="stroke-dasharray" values="2 10;10 2;2 10" dur="2.4s" repeatCount="indefinite"/></path>
+      </g>
+    </g>
+  </g>
+</svg>

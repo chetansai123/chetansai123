@@ -1,0 +1,51 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chetan's build signals and engineering focus map</title>
+  <desc id="desc">A flat technical field-notes panel connects React UI, Node APIs, delivery, testing, and product thinking beside verified work-impact metrics.</desc>
+  <clipPath id="frame"><rect width="1200" height="320" rx="22"/></clipPath>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="#102A3B"/>
+    <path d="M0 276C190 236 332 318 520 272" stroke="#1E4F69" stroke-width="76"/>
+    <path d="M0 1H1200M0 319H1200" stroke="#7AB6D4" stroke-opacity="0.28"/>
+    <path d="M640 0V320M660 0V320M680 0V320" stroke="#7AB6D4" stroke-opacity="0.06" stroke-dasharray="2 10"/>
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+      <text x="42" y="52" fill="#9AC4D6" font-size="14" font-weight="650">Build signals</text>
+      <text x="42" y="92" fill="#F3F8FB" font-size="30" font-weight="780" letter-spacing="-0.6">Shipping systems, not just screens.</text>
+      <text x="42" y="121" fill="#B2C8D2" font-size="14">A compact view of the work behind the pinned repositories.</text>
+      <rect x="42" y="154" width="132" height="62" rx="10" fill="#17384C" stroke="#3B667B"/>
+      <text x="58" y="179" fill="#F07B5A" font-size="22" font-weight="780">60%</text>
+      <text x="58" y="198" fill="#B2C8D2" font-size="11">less scheduler time</text>
+      <rect x="186" y="154" width="132" height="62" rx="10" fill="#17384C" stroke="#3B667B"/>
+      <text x="202" y="179" fill="#75C5E8" font-size="22" font-weight="780">40%</text>
+      <text x="202" y="198" fill="#B2C8D2" font-size="11">faster dashboard</text>
+      <rect x="42" y="228" width="132" height="54" rx="10" fill="#17384C" stroke="#3B667B"/>
+      <text x="58" y="251" fill="#F3F8FB" font-size="20" font-weight="780">12+</text>
+      <text x="58" y="269" fill="#B2C8D2" font-size="11">masking use cases</text>
+      <rect x="186" y="228" width="132" height="54" rx="10" fill="#17384C" stroke="#3B667B"/>
+      <text x="202" y="251" fill="#F3F8FB" font-size="20" font-weight="780">200+</text>
+      <text x="202" y="269" fill="#B2C8D2" font-size="11">automated tests</text>
+      <text x="708" y="38" fill="#9AC4D6" font-size="13" font-weight="650">Engineering focus map</text>
+      <text x="708" y="58" fill="#7697A7" font-size="11">Work areas, not a fabricated activity score</text>
+      <g stroke="#6F9CAF" stroke-opacity="0.38" stroke-width="1">
+        <path d="M892 82L997 147L957 270H827L787 147L892 82Z"/>
+        <path d="M892 108L968 155L939 241H845L816 155L892 108Z"/>
+        <path d="M892 134L938 163L921 212H863L846 163L892 134Z"/>
+        <path d="M892 82V270M787 147L997 147M827 270L957 270M787 147L957 270M997 147L827 270"/>
+      </g>
+      <path d="M892 104L958 154L934 230L850 244L820 151L892 104Z" fill="#2A607C" fill-opacity="0.72" stroke="#F07B5A" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="420" stroke-dashoffset="420">
+        <animate attributeName="stroke-dashoffset" from="420" to="0" dur="2.2s" fill="freeze"/>
+      </path>
+      <circle cx="892" cy="104" r="5" fill="#75C5E8"><animate attributeName="r" values="4;7;4" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="958" cy="154" r="5" fill="#75C5E8"/>
+      <circle cx="934" cy="230" r="5" fill="#F07B5A"/>
+      <circle cx="850" cy="244" r="5" fill="#F07B5A"/>
+      <circle cx="820" cy="151" r="5" fill="#75C5E8"/>
+      <text x="872" y="78" fill="#D7ECF5" font-size="12" font-weight="700">React UI</text>
+      <text x="972" y="151" fill="#D7ECF5" font-size="12" font-weight="700">Node APIs</text>
+      <text x="948" y="255" fill="#D7ECF5" font-size="12" font-weight="700">Delivery</text>
+      <text x="780" y="255" fill="#D7ECF5" font-size="12" font-weight="700">Testing</text>
+      <text x="724" y="148" fill="#D7ECF5" font-size="12" font-weight="700">Product UX</text>
+      <path d="M1028 104C1070 104 1070 78 1116 78" stroke="#F07B5A" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 8"/>
+      <circle cx="1028" cy="104" r="4" fill="#F07B5A"><animateMotion dur="4s" repeatCount="indefinite" path="M0 0C42 0 42 -26 88 -26"/></circle>
+    </g>
+  </g>
+</svg>
