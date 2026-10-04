@@ -1,0 +1,37 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chetan's featured build board</title>
+  <desc id="desc">Six illustrated project markers connected as a hand-drawn workbench route.</desc>
+  <rect width="1200" height="260" rx="18" fill="#103B52"/>
+  <path d="M64 129C177 68 267 192 382 124C501 54 578 180 701 111C819 45 912 184 1030 117C1073 93 1106 94 1140 115" stroke="#EAF1E8" stroke-width="3" stroke-dasharray="7 11" opacity="0.9"/>
+  <path d="M64 131C177 70 267 194 382 126C501 56 578 182 701 113C819 47 912 186 1030 119C1073 95 1106 96 1140 117" stroke="#FF7849" stroke-width="2" stroke-dasharray="2 24" opacity="0.9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-52" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+    <text x="38" y="39" fill="#52D3C6" font-size="12" font-weight="850" letter-spacing="2">FEATURED BUILDS / A SMALL WORKBENCH INDEX</text>
+    <g transform="translate(48 77)">
+      <circle cx="42" cy="52" r="31" fill="#F6C85F" stroke="#103B52" stroke-width="4"/><path d="M25 48L42 31L59 48V68H25V48Z" fill="#F4E9D8" stroke="#103B52" stroke-width="3"/><path d="M34 68V53H50V68" stroke="#FF7849" stroke-width="3"/>
+      <text x="0" y="114" fill="#F4E9D8" font-size="12" font-weight="850">KareerGuru</text><text x="5" y="133" fill="#BBD2D1" font-size="10">career flows</text>
+    </g>
+    <g transform="translate(237 77)">
+      <circle cx="42" cy="52" r="31" fill="#52D3C6" stroke="#103B52" stroke-width="4"/><path d="M24 37H60V70H24V37Z" fill="#F4E9D8" stroke="#103B52" stroke-width="3"/><path d="M31 48C37 42 43 55 50 48C55 43 57 50 59 53" stroke="#FF7849" stroke-width="3"/>
+      <text x="10" y="114" fill="#F4E9D8" font-size="12" font-weight="850">Scribbly</text><text x="7" y="133" fill="#BBD2D1" font-size="10">notes + diagrams</text>
+    </g>
+    <g transform="translate(426 77)">
+      <circle cx="42" cy="52" r="31" fill="#FF7849" stroke="#103B52" stroke-width="4"/><path d="M30 34H54V72H30V34Z" fill="#F4E9D8" stroke="#103B52" stroke-width="3"/><path d="M35 42H49M35 51H49M35 60H45" stroke="#103B52" stroke-width="3"/>
+      <text x="-5" y="114" fill="#F4E9D8" font-size="12" font-weight="850">Clipboard</text><text x="0" y="133" fill="#BBD2D1" font-size="10">native macOS</text>
+    </g>
+    <g transform="translate(615 77)">
+      <circle cx="42" cy="52" r="31" fill="#F6C85F" stroke="#103B52" stroke-width="4"/><path d="M23 42H61L56 69H29L23 42Z" fill="#F4E9D8" stroke="#103B52" stroke-width="3"/><path d="M31 42C31 28 53 28 53 42" stroke="#FF7849" stroke-width="3"/>
+      <text x="16" y="114" fill="#F4E9D8" font-size="12" font-weight="850">proshop</text><text x="1" y="133" fill="#BBD2D1" font-size="10">storefront + checkout</text>
+    </g>
+    <g transform="translate(804 77)">
+      <circle cx="42" cy="52" r="31" fill="#52D3C6" stroke="#103B52" stroke-width="4"/><path d="M28 35H56V70H28V35Z" fill="#F4E9D8" stroke="#103B52" stroke-width="3"/><path d="M34 45H50M34 53H50M34 61H46" stroke="#FF7849" stroke-width="3"/>
+      <text x="2" y="114" fill="#F4E9D8" font-size="12" font-weight="850">Portfolio</text><text x="10" y="133" fill="#BBD2D1" font-size="10">selected work</text>
+    </g>
+    <g transform="translate(993 77)">
+      <circle cx="42" cy="52" r="31" fill="#FF7849" stroke="#103B52" stroke-width="4"/><circle cx="37" cy="47" r="12" fill="#F4E9D8" stroke="#103B52" stroke-width="3"/><path d="M46 56L58 68" stroke="#F4E9D8" stroke-width="5" stroke-linecap="round"/>
+      <text x="3" y="114" fill="#F4E9D8" font-size="12" font-weight="850">JobScraper</text><text x="9" y="133" fill="#BBD2D1" font-size="10">search pipeline</text>
+    </g>
+    <circle r="7" fill="#F6C85F"><animateMotion dur="6s" repeatCount="indefinite" path="M64 129C177 68 267 192 382 124C501 54 578 180 701 111C819 45 912 184 1030 117C1073 93 1106 94 1140 115"/></circle>
+  </g>
+</svg>

@@ -78,7 +78,17 @@ React flows → Node.js / REST APIs → privacy-focused call routing → audit l
 </tr>
 </table>
 
-## Projects worth opening
+## Build board
+
+<div align="center">
+
+<img src="./assets/project-board.svg" alt="Featured builds connected on a hand-drawn project board" width="100%" />
+
+</div>
+
+The projects below are the repositories I’d put in front of a recruiter first.
+
+## Project notes
 
 <table>
 <tr>
