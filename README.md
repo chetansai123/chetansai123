@@ -20,7 +20,7 @@ Based in Hyderabad, India. Open to frontend, backend, and full-stack roles.
 
 <div align="center">
 
-![Profile signals](./assets/profile-signal.svg)
+![Profile signals](./assets/profile-signal.svg?v=20261004)
 
 </div>
 
