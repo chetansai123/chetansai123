@@ -1,6 +1,10 @@
 <div align="center">
 
-![Chetan Sai Somaraju — Full Stack Engineer](./assets/profile-header.svg)
+<img src="./assets/chetan-workshop.png" alt="Chetan working on product flows in a Hyderabad workshop" width="100%" />
+
+# Full Stack Engineer
+
+React · Redux · Next.js · Node.js · Express · JavaScript · Java
 
 <a href="https://chetansai.vercel.app">Portfolio</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -10,28 +14,24 @@
 
 </div>
 
-## The short version
+## About me
 
-I’m a Full Stack Engineer with 2+ years of experience across a startup and
-Oracle. I build React interfaces, Node.js APIs, REST integrations, webhook
-flows, and the production fixes that connect them.
+- Full Stack Engineer with 2+ years across a startup and Oracle.
+- I build React interfaces, Node.js APIs, REST integrations, webhook flows,
+  and the production fixes that connect them.
+- Based in Hyderabad, India; open to frontend, backend, and full-stack roles.
+- Currently strengthening TypeScript, system design, and data structures.
 
-Based in Hyderabad, India. Open to frontend, backend, and full-stack roles.
+## Work highlights
 
-<div align="center">
+- **Oracle:** Worked on a React-based Manufacturing Task Scheduler with Gantt
+  visualization and drag-and-drop scheduling, reducing work-order management
+  time by about **60%**.
+- **Ten20 Infomedia:** Worked across the React UI and Node.js APIs for Alohaa,
+  improved dashboard performance by about **40%**, and added webhook delivery
+  with RabbitMQ retry handling.
 
-![Profile signals](./assets/profile-signal.svg?v=20261004)
-
-</div>
-
-## What I’ve shipped
-
-| Work | The useful part |
-| --- | --- |
-| **Oracle · Manufacturing Task Scheduler** | React scheduling UI with Gantt visualization and drag-and-drop work-order planning; reduced work-order management time by about **60%**. |
-| **Ten20 Infomedia · Alohaa** | React UI and Node.js APIs, dashboard performance improvements of about **40%**, webhook delivery, and RabbitMQ retry handling. |
-
-## Two features I can explain end to end
+## A few features I worked on
 
 <table>
 <tr>
@@ -39,10 +39,10 @@ Based in Hyderabad, India. Open to frontend, backend, and full-stack roles.
 
 ### VoiceBroadcast
 
-An automated outbound IVR system using pre-recorded voices. Customer responses
-are captured as DTMF keys for voice surveys and campaigns.
+An automated outbound IVR system that uses pre-recorded voices, captures user
+responses as DTMF keys, and supports voice surveys and campaigns.
 
-**Architecture**  
+**Flow**  
 React campaign UI → Node.js APIs → call-result webhooks → RabbitMQ retry queues
 
 </td>
@@ -50,18 +50,18 @@ React campaign UI → Node.js APIs → call-result webhooks → RabbitMQ retry q
 
 ### NumberMasking
 
-A privacy-protection feature that lets two people talk without exposing their
-real phone numbers. I worked on the React flows, Node.js APIs, REST
-integrations, and 12+ use cases backed by 200+ automated tests.
+A privacy-protection feature where people can talk without exposing their real
+phone numbers. I worked on the React flows, Node.js APIs, REST integrations,
+and 12+ use cases backed by 200+ automated tests.
 
-**Architecture**  
+**Flow**  
 React flows → Node.js / REST APIs → privacy-focused call routing → audit logging
 
 </td>
 </tr>
 </table>
 
-## Selected builds
+## Projects worth opening
 
 <table>
 <tr>
@@ -113,7 +113,7 @@ flows.
 
 ### [Updated Portfolio](https://github.com/chetansai123/Updated-Portfolio)
 
-Portfolio site for presenting selected work, experience, and contact details.
+Portfolio site for selected work, experience, and contact details.
 
 `JavaScript` `UI`
 
@@ -131,19 +131,13 @@ salary, then verifies direct application links.
 </tr>
 </table>
 
-## What I work with
+## Toolkit
 
 **Frontend** — React, JavaScript, Redux, Next.js, HTML, CSS  
 **Backend** — Node.js, Express, REST APIs, webhooks  
 **Data and delivery** — MongoDB, MySQL, RabbitMQ, Docker, Git  
 **Additional exposure** — Java for legacy enterprise debugging; TypeScript is
 currently in progress.
-
-## The GitHub-native signal
-
-GitHub’s Activity overview below shows the contribution mix and the
-repositories where I’m active. It is account-wide, not limited to this profile
-repository.
 
 ## Let’s connect
 
